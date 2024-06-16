@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace GerardWalace\\BbHubMatchs;
+namespace GerardWalace\BbHubMatchs;
 
 use Flarum\Extend;
 
